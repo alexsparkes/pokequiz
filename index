@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>
+Pokemon Quiz
+</title>
+<style>
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 50px;
+}
+
+p {
+   text-align: center;
+
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 100px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+</style>
+
+</head>
+<body>
+<p>Pokemon Quiz</p>
+<center>
+<a href="question.html" class="button"><p>Begin!</p></a>
+</center>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
